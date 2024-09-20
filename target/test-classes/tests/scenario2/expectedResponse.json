@@ -1,0 +1,13 @@
+{
+  "data": {
+    "id": "#number",
+    "email": "#notnull",
+    "first_name": "#string",
+    "last_name": "Weaver",
+    "avatar": "#ignore"
+  },
+  "support": {
+    "url": "https://reqres.in/#support-heading",
+    "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}

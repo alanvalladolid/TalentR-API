@@ -1,0 +1,5 @@
+{
+  "error01": "Missing password",
+  "error02": "Missing email or username",
+  "error03": "user not found"
+}
